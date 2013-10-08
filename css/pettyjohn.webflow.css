@@ -1,0 +1,79 @@
+body {
+  position: static;
+  padding-top: 2px;
+  background-color: rgba(111, 225, 247, 0.23);
+  font-family: Verdana, Geneva, sans-serif;
+  color: #333;
+  font-size: 12px;
+  line-height: 20px;
+}
+h1 {
+  margin: 10px 0px;
+  font-size: 38px;
+  line-height: 44px;
+  font-weight: 700;
+}
+h2 {
+  margin: 10px 0px;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 700;
+}
+h3 {
+  margin: 10px 0px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+}
+h4 {
+  margin: 10px 0px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+}
+h5 {
+  margin: 10px 0px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+h6 {
+  margin: 10px 0px;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 700;
+}
+p {
+  position: absolute;
+  left: 0px;
+  display: block;
+  overflow: visible;
+  margin-right: 83px;
+  margin-bottom: 5px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.button {
+  display: inline-block;
+  padding: 4px 15px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.text-block {
+  display: block;
+  overflow: visible;
+  clear: none;
+}
+.columns {
+  padding-top: 5px;
+  background-color: rgba(128, 120, 120, 0.12);
+}
+.image1 {
+  margin-right: 49px;
+  margin-left: 87px;
+  padding-left: 1px;
+  float: right;
+}
